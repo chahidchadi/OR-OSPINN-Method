@@ -94,7 +94,6 @@ Notebook filenames include:
 - `symmetric` or `asymmetric`: domain decomposition type.
 - `OR_OSPINN`, `MonoDomain`, `Local_vs_Nonlocal`: experiment family.
 - `T1`, `T2`, `T3`, `T4`: final time horizon for local/nonlocal operator comparison.
-- `cleaned_minimal_comments_with_outputs`: cleaned notebook with outputs preserved.
 
 
 
